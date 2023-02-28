@@ -620,7 +620,6 @@ section {
 
   transition: background-color var(--transition-250),
     border-color var(--transition-250);
-  /* background-color: transparent; */
 }
 .mobal-close-btn-icon {
   fill: #000;
