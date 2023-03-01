@@ -242,7 +242,7 @@ section {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url('/images/people-office.jpg');
+    url('/images/office.jpg');
   background-size: 1440px;
   background-position: center;
   background-repeat: no-repeat;
@@ -430,7 +430,8 @@ section {
 }
 /* Customers */
 .customers-section {
-  padding: 120px 156px 120px 156px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .customers-list {
   display: flex;
