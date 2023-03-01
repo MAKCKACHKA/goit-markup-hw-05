@@ -235,6 +235,10 @@ section {
 /* MAIN PAGE*/
 /* Hero page */
 .hero-section {
+  max-width: 1440px;
+  margin-right: auto;
+  margin-left: auto;
+
   color: #ffffff;
   padding-top: 188px;
   padding-bottom: 188px;
@@ -435,8 +439,7 @@ section {
 }
 .customers-list {
   display: flex;
-  justify-content: center;
-  gap: 24px;
+  justify-content: space-between;
 }
 .customer-link {
   display: flex;
