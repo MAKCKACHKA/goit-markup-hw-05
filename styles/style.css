@@ -462,8 +462,8 @@ section {
 
   transition: fill var(--transition-250);
 }
-.customer-icon:hover,
-.customer-icon:focus {
+.customer-link:hover .customer-icon,
+.customer-link:focus .customer-icon {
   fill: #404bbf;
 }
 /* PORTFOLIO */
